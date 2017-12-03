@@ -1,0 +1,5 @@
+2017-12-02 23:05 First entry.
+
+To add more journals modify ~/.jrnl_config
+
+For more instructions on how to use jrnl see jrnl.sh
